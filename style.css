@@ -4,7 +4,7 @@ color: red;
 
 }
 
-::backdrop{color: khaki;
-
+body{
+background-color: khaki;
 
 }
